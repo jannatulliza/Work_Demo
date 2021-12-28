@@ -1,0 +1,11 @@
+{
+    "dob": "button[class='MuiButtonBase-root MuiIconButton-root']",
+    "dobselectyear": ".MuiTypography-root.MuiPickersToolbarText-toolbarTxt.MuiTypography-subtitle1",
+    "dobyear": "div:nth-child(91)",
+    "postcode": "123456",
+    "postcodeCA": "T5J 3N6",
+    "Country": "[data-value='US']",
+    "Phone_Flag" : ".flag.us"
+}
+
+
